@@ -9,5 +9,11 @@
     "type": "USER",
     "status": "SUPPORTER",
     "text": "test account"
+  },
+  {
+    "id": 1,
+    "type": "USER",
+    "status": "DEVELOPER",
+    "text": "вовчик"
   }
 ]
